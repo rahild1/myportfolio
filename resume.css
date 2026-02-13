@@ -1,0 +1,140 @@
+ * {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+ }
+
+    body, html {
+        background-color: #f0f0f0;
+        font-family: Arial, sans-serif;
+        color: #333;
+    }
+
+    .container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0rem 2rem 4rem;
+}
+
+    .rahil {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        margin-top: 1.2rem;
+        font-size: 10px;
+    }
+
+    .rahilnav {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        margin-top: 0.8rem;
+        font-size: medium;
+    }
+
+    .Professional {
+        margin-top: 1.5rem;
+        font-size: medium;
+    }
+
+    .Professional p {
+        margin-top: 0.7rem;
+        font-size: medium;
+        line-height: 1.3rem;
+        font-size: 15px;
+    }
+
+     .Technical {
+        margin-top: 1.5rem;
+        font-size: medium;
+    }
+
+    .Technical p {
+        margin-top: 0.7rem;
+        font-size: medium;
+        line-height: 1.3rem;
+        font-size: 15px;
+    }
+
+    .Projects {
+        margin-top: 1.5rem;
+        font-size: medium;
+    }
+
+    .Projects p {
+        margin-top: 0.7rem;
+        font-size: medium;
+        line-height: 1.3rem;
+        font-size: 15px;
+    }
+
+    .Projects ul {
+        margin-top: 0.7rem;
+        font-size: medium;
+        line-height: 1.5rem;
+        font-size: 15px;
+        margin-left: 2rem;
+    }
+
+    
+    .Internship {
+        margin-top: 1.5rem;
+        font-size: medium;
+    }
+
+    .Internship p {
+        margin-top: 0.7rem;
+        font-size: medium;
+        line-height: 1.3rem;
+        font-size: 15px;
+    }
+
+    .Internship ul {
+        margin-top: 0.7rem;
+        font-size: medium;
+        line-height: 1.5rem;
+        font-size: 15px;
+        margin-left: 2rem;
+    }
+
+    .Certifications {
+        margin-top: 1.5rem;
+        font-size: medium;
+    }
+
+    .Certifications p {
+        margin-top: 0.7rem;
+        font-size: medium;
+        line-height: 1.3rem;
+        font-size: 15px;
+        margin-left: 1rem;
+    }
+
+    .Education {
+        margin-top: 1.5rem;
+        font-size: medium;
+    }
+
+    .Education p {
+        margin-top: 0.4rem;
+        font-size: medium;
+        line-height: 1.3rem;
+        font-size: 15px;
+        margin-left: 1rem;
+    }
+
+    .Education p1 {
+        font-style: italic;
+        margin-top: 1.5rem;
+        font-size: medium;
+        line-height: 1.3rem;
+        font-size: 15px;
+        margin-left: 1rem;
+    }
+
+    .SoftSkills {
+        margin-top: 1.5rem;
+        font-size: medium;
+    }
