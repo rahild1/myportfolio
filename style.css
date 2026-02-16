@@ -400,6 +400,25 @@ section {
     color: var(--text-primary);
 }
 
+
+.section-ai {
+    margin-top: -0.8rem;
+    font-family: 'Courier Prime', monospace;
+    margin-bottom: 0.7rem;
+    font-weight: 570;
+    font-size: 1.5rem;
+}
+
+.section-ai-list{
+    position: relative;
+    padding-left: 1.25rem;
+    margin-bottom: 0.75rem;
+    margin-left: 1rem;
+    line-height: 1.8rem;
+    font-size: 0.95rem;
+    color: var(--text-muted);
+}
+
 /* ========================================
    STACK SECTION
    ======================================== */
